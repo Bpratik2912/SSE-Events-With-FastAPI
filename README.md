@@ -1,4 +1,4 @@
-# 🕒 FastAPI SSE - Current Time Stream
+# 🕒 FastAPI SSE(Server Sent Events) - Current Time Stream
 
 This is a simple FastAPI application that streams the current date and time to clients every second using **Server-Sent Events (SSE)**. It includes logging.
 
